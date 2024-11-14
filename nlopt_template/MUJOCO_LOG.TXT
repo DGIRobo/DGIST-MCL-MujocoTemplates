@@ -1,0 +1,10 @@
+Thu Aug 22 23:11:33 2024
+ERROR: Load model error: XML parse error 3:
+Error=XML_ERROR_FILE_NOT_FOUND ErrorID=3 (0x3) Line number=0: filename=../myproject/projectile_opt/ball.xml
+
+
+Thu Aug 22 23:18:01 2024
+ERROR: Load model error: XML Error: attribute 'rgba' does not have enough data
+Element 'geom', line 7
+
+
