@@ -1,0 +1,15 @@
+Wed Jul 10 21:39:30 2024
+ERROR: Load model error: XML parse error 3:
+Error=XML_ERROR_FILE_NOT_FOUND ErrorID=3 (0x3) Line number=0: filename=../myproject/template/hello.xml
+
+
+Wed Jul 10 21:40:08 2024
+ERROR: Load model error: XML parse error 3:
+Error=XML_ERROR_FILE_NOT_FOUND ErrorID=3 (0x3) Line number=0: filename=../myproject/template/hello.xml
+
+
+Wed Jul 10 21:40:31 2024
+ERROR: Load model error: XML parse error 3:
+Error=XML_ERROR_FILE_NOT_FOUND ErrorID=3 (0x3) Line number=0: filename=../myproject/template/hello.xml
+
+
